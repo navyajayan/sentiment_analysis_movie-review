@@ -14,11 +14,12 @@ sentiment_model.pkl - Trained sentiment analysis model
 tfidf_vectorizer.pkl - TF-IDF vectorizer
 requirements.txt - Dependencies 
 
-├── Data
-│   ├── IMDB Dataset.csv  # Movie review dataset
-├── sentiment_model.pkl  # Trained sentiment analysis model
-│-- tfidf_vectorizer.pkl  # TF-IDF vectorizer
-├── app.py  # Flask API
-├── requirements.txt  # Required Python packages
-├── notebook.ipynb  # Jupyter Notebook for training & experimentation
-├── README.md  # Project documentation
+├── Data  
+│   ├── IMDB Dataset.csv  # Movie review dataset  
+├── sentiment_model.pkl  # Trained sentiment analysis model  
+├── tfidf_vectorizer.pkl  # TF-IDF vectorizer  
+├── app.py  # Flask API  
+├── requirements.txt  # Required Python packages  
+├── notebook.ipynb  # Jupyter Notebook for training & experimentation  
+├── README.md  # Project documentation  
+
